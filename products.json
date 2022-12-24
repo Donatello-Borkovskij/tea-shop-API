@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "productName": "Tea01",
+    "productPrice": "99.99",
+    "productDescription": "des",
+    "imgURL": "https://cdn.shopify.com/s/files/1/2256/0415/products/10042-LOOSE-ORGANIC_DARJEELING_ESTATE_800x800.jpg?v=1505847073"
+  },
+  {
+    "id": 2,
+    "productName": "Tea02",
+    "productPrice": "9.99",
+    "productDescription": "des",
+    "imgURL": "https://cdn.shopify.com/s/files/1/1234/1342/files/oolongtea_6_medium.jpg?v=1473967463"
+  },
+  {
+    "id": 3,
+    "productName": "Tea03",
+    "productPrice": "69.99",
+    "productDescription": "des",
+    "imgURL": "https://s3.images-iherb.com/htl/htl00549/g/5.jpg"
+  },
+  {
+    "id": 4,
+    "productName": "Tea04",
+    "productPrice": "7.77",
+    "productDescription": "des",
+    "imgURL": "https://www.ecoherbs.eu/403-large_default/iq-herbal-tea.jpg"
+  }
+]

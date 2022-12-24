@@ -1,0 +1,44 @@
+[
+  {
+    "id": 4,
+    "productName": "Tea01",
+    "productPrice": "99.99",
+    "productDescription": "des",
+    "imgURL": "https://cdn.shopify.com/s/files/1/2256/0415/products/10042-LOOSE-ORGANIC_DARJEELING_ESTATE_800x800.jpg?v=1505847073"
+  },
+  {
+    "id": 5,
+    "productName": "Tea02",
+    "productPrice": "9.99",
+    "productDescription": "desdesdes",
+    "imgURL": "https://cdn.shopify.com/s/files/1/1234/1342/files/oolongtea_6_medium.jpg?v=1473967463"
+  },
+  {
+    "id": 6,
+    "productName": "Tea03",
+    "productPrice": "69.99",
+    "productDescription": "best tea for the price",
+    "imgURL": "https://s3.images-iherb.com/htl/htl00549/g/5.jpg"
+  },
+  {
+    "id": 8,
+    "productName": "TEST9999",
+    "productPrice": "1999.0",
+    "productDescription": "asdasd",
+    "imgURL": "https://lelolobi.com/wp-content/uploads/2021/11/Test-Logo-Small-Black-transparent-1-1.png"
+  },
+  {
+    "id": 9,
+    "productName": "qwert",
+    "productPrice": "188888.0",
+    "productDescription": "zxcvb",
+    "imgURL": "https://www.ecoherbs.eu/403-large_default/iq-herbal-tea.jpg"
+  },
+  {
+    "id": 10,
+    "productName": "TEST10",
+    "productPrice": "9999.0",
+    "productDescription": "asdasdasd",
+    "imgURL": "https://www.microtool.de/wp-content/uploads/2017/07/Test.png"
+  }
+]
